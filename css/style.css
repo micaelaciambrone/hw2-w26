@@ -1,5 +1,5 @@
 body {
-  font-family: arial, verdana, sans-serif;
+  font-family: arial, verdana;
   background-color: #000000;
   color: #ffffff;
   margin: 20px 20px 0px 20px;
@@ -49,6 +49,8 @@ div {
   background-color: #ff0000;
   text-align: right;
   margin-left: 50px;
+
+  border: 0px;
   border-left: 5px solid #ffffff;
   border-bottom: 2px solid #ffffff;
 }
@@ -56,35 +58,7 @@ div {
 .blue {
   background-color: #0000ff;
   text-align: left;
-  margin-right: 50px;
-  border-right: 5px solid #ffffff;
-  border-top: 2px solid #ffffff;
-}
-
-.blue h2,
-.blue p {
-  color: #c4c4c4;
-}
-
-.yellow {
-  background-color: #ffff00;
-  text-align: right;
-  margin-left: 50px;
-  border-left: 5px solid #ffffff;
-  border-bottom: 2px solid #ffffff;
-}
-
-.yellow p {
-  color: #707070;
-}
-
-.green {
-  background-color: #008500;
-  text-align: left;
-  margin-right: 50px;
-  border-right: 5px solid #ffffff;
-  border-top: 2px solid #ffffff;
-}
+  margin-rig
 
 footer {
   background: linear-gradient(
